@@ -1,7 +1,7 @@
 var config = {
     // 腾讯云
-    SecretId: 'AKIDSluoSj3fGfx314qSt4Bi6F7k9RUTMlnp',
-    SecretKey: 'rVv99uTmzyiFWZNo0KVTDl36nEahdKrJ',
+    SecretId: 'AKIDiGZkgQD98zaw2uvXMvKURGm46tQpLDNR',
+    SecretKey: 'yhAUcU6Xr2xd8PSGAvSjlX6LMGve8Xhl',
     Bucket: '1014-1259043953',
     Region: 'ap-beijing',
     // 阿里云
